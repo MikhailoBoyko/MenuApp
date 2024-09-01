@@ -1,0 +1,289 @@
+{
+	"menu": [
+{
+	"id": "1",
+	"category": "pizza",
+	"name": "Neapolitan Pizza",
+	"img": "/pizza/3.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 10.5
+},
+{
+	"id": "2",
+	"category": "pizza",
+	"name": "New York Style Pizza",
+	"img": "/pizza/4.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 11.5
+},
+{
+	"id": "3",
+	"category": "pizza",
+	"name": "Margherita Pizza",
+	"img": "/pizza/5.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 9.5
+},
+{
+	"id": "4",
+	"category": "pizza",
+	"name": "Sicilian Pizza",
+	"img": "/pizza/6.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 12.5
+},
+{
+	"id": "5",
+	"category": "pizza",
+	"name": "Hawaiian Pizza",
+	"img": "/pizza/7.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 11.5
+},
+{
+	"id": "6",
+	"category": "sushi",
+	"name": "California roll",
+	"img": "/sushi/1.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 15.5
+},
+{
+	"id": "7",
+	"category": "sushi",
+	"name": "Philadelphia roll",
+	"img": "/sushi/4.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 15.5
+},
+{
+	"id": "8",
+	"category": "sushi",
+	"name": "Salmon roll",
+	"img": "/sushi/5.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 17.5
+},
+{
+	"id": "9",
+	"category": "sushi",
+	"name": "Avocado Sushi Rolls",
+	"img": "/sushi/9.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 14.5
+},
+{
+	"id": "10",
+	"category": "sushi",
+	"name": "Shrimp tempura roll",
+	"img": "/sushi/10.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 18.5
+},
+{
+	"id": "11",
+	"category": "sushi",
+	"name": "Pinot grigio",
+	"img": "/wine/1.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 25.5
+},
+{
+	"id": "12",
+	"category": "wine",
+	"name": "Chardonnay",
+	"img": "/wine/2.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 26.5
+},
+{
+	"id": "13",
+	"category": "wine",
+	"name": "Merlot",
+	"img": "/wine/4.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 27.5
+},
+{
+	"id": "14",
+	"category": "wine",
+	"name": "Cabernet sauvignon",
+	"img": "/wine/5.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 24.5
+},
+{
+	"id": "15",
+	"category": "wine",
+	"name": "Pinot noir",
+	"img": "/wine/8.jpg",
+	"desription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+	"addition": [
+        {
+            "benefit": "Cheese",
+            "checked": true
+        },
+        {
+            "benefit": "Cheese",
+            "checked": false
+        }
+    ],
+	"bestseller": false,
+	"price": 23.5
+}
+]
+}

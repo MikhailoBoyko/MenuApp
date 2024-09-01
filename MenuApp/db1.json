@@ -1,0 +1,30 @@
+{
+	"gallery": [
+        {
+            "id": "1",
+            "name": "Neapolitan Pizza",
+            "img": "/gallery/1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Neapolitan Pizza",
+            "img": "/gallery/2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Neapolitan Pizza",
+            "img": "/gallery/5.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Neapolitan Pizza",
+            "img": "/gallery/6.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Neapolitan Pizza",
+            "img": "/gallery/7.jpg"
+        }
+                                        
+]
+}
